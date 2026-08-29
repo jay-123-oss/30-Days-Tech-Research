@@ -6,12 +6,12 @@ A 30-day technology research journey focused on discovering, understanding, anal
 
 ---
 
-## 🖼️ Project Poster
-
 <p align="center">
-  <img src="./assets/30-days-tech-research-poster.png" 
-       alt="30 Days Tech Research Poster" 
-       width="850">
+  <img
+    src="https://media2.dev.to/dynamic/image/width%3D1000%2Cheight%3D420%2Cfit%3Dcover%2Cgravity%3Dauto%2Cformat%3Dauto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiip39fewps0f5xr4vh60.png"
+    alt="30 Days Tech Research"
+    width="100%"
+  />
 </p>
 
 ---
